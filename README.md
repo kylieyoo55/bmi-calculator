@@ -1,3 +1,11 @@
+# This is What I made 💪
+
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+
+
+
+
 # bmi_calculator
 
 A new Flutter project.
